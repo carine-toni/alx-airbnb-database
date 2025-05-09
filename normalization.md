@@ -28,3 +28,4 @@ All tables have:
 
 ## ✔️ Result
 The database schema has been normalized up to **Third Normal Form (3NF)**.
+
